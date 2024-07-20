@@ -341,3 +341,16 @@ demo.launch()
 ![7_5_Gr_Interface.png](/Record/7_5_Gr.png)
 
 
+## The Second Stage of NLP Internship 
+### 1. Our Task: Rearch on Efficient Enhancement Methods of Large Language Model Inference Capability 
+![ShortComing of LLMs](./Images/The%20Shortcoming%20of%20LLMs.png)
+### 2. Our Team: Yuchun Fan; [Shan Xie](mailto:20216404@stu.neu.edu.cn); Hongbo Zhou; Duojing Sun; Shengshan Hu;
+### 3. Our Proposal:
+[proposal](/Proposal/NLP_Production_Internship____NEUNLP_Lab.pdf)
+### 4. Reading Group
+[Reading Group](/Reading-Group/CoT%20Prompting%20Methon%20Share_final.pptx)
+### 5. Poster
+[Poster](/poster/poster.pdf)
+### 6. Some Experiment Result
+![poster_01](./Images/poster_img_01.png)
+![poster_02](./Images/poster_img_02.png)
