@@ -12,3 +12,8 @@ models
 *.txt
 *.pdf
 *.pptx
+mgsm
+*.pkl
+*.csv
+*_plots/
+__pycache__
